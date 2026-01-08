@@ -36,7 +36,7 @@ Latch-type differential sense amplifier used to amplify small bitline voltage di
 
 Read operation waveform:
 
-![Sense Amp Read](simulations/Sense_Amplifier_Read.png)
+![Sense Amp Read](simulations/Sense_Amplifier_Working.png)
 
 ---
 
@@ -47,7 +47,7 @@ Integration of the 6T SRAM cell with precharge, write driver, and sense amplifie
 
 Transient simulation verifying correct read and write functionality:
 
-![1-Bit SRAM Waveform](simulations/1bit_SRAM_Read_Write.png)
+![1-Bit SRAM Waveform](simulations/1bit_SRAM_Working.png)
 
 ---
 
