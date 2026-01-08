@@ -34,7 +34,7 @@ Latch-type differential sense amplifier used to amplify small bitline voltage di
 
 ![Sense Amplifier](schematics/Sense_Amplifier.png)
 
-Read operation waveform:
+Working of Sense Amplifier:
 
 ![Sense Amp Read](simulations/Sense_Amplifier_Working.png)
 
@@ -45,7 +45,7 @@ Integration of the 6T SRAM cell with precharge, write driver, and sense amplifie
 
 ![1-Bit SRAM](schematics/1bit_SRAM_Integration.png)
 
-Transient simulation verifying correct read and write functionality:
+Transient simulation verifying correct functionality:
 
 ![1-Bit SRAM Waveform](simulations/1bit_SRAM_Working.png)
 
@@ -68,7 +68,7 @@ Complete memory array consisting of 64 identical 6T cells with column-wise share
 
 ## Tools Used
 - Cadence Virtuoso
-- CMOS 45 nm technology (course-provided)
+- CMOS 45 nm technology
 
 ---
 
